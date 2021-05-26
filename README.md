@@ -1,4 +1,4 @@
-# uas-charreg
+# UCL Team Nova Character Recognition Algorithm
 UAS Character Recognition Algorithm Repository 2021
 
 Test videos can be viewed by clicking on the link below:
